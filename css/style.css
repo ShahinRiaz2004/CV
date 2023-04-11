@@ -1,0 +1,26 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+   border-top-style:  none;
+   color:gray ;
+border-top-width: 10px;
+   
+   width: 100%;
+   
+}
+/* h section */
+h1{
+  color:    #66bfbf;
+}
+h3{
+  color:    #66bfbf;
+}
+  tr{
+    border-collapse: collapse;
+  }
+  th,td{
+    padding: 9px;
+    text-align: left;
+  }
+ 
